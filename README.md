@@ -1,2 +1,3 @@
-# git-test
-premier test git pour le cours Blent
+# Test Git
+
+Nous travaillons sur les branches de Git !
